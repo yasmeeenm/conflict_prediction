@@ -1,0 +1,223 @@
+Country from our model,Code,probability of war,,,COUNTRY,CODE
+Afghanistan,AFG,0.3623195371,,,Afghanistan,AFG
+Albania,ALB,0.5001373328,,,Albania,ALB
+Algeria,DZA,0.2657158686,,,Algeria,DZA
+Andorra,AND,0.9141717717,,,American Samoa,ASM
+Angola,AGO,0.5505998575,,,Andorra,AND
+Antigua and Barbuda,ATG,0.7235342032,,,Angola,AGO
+Argentina,ARG,0.9619323037,,,Anguilla,AIA
+Armenia,ARM,0.07997923455,,,Antigua and Barbuda,ATG
+Aruba,ABW,0.7474441404,,,Argentina,ARG
+Australia,AUS,0.1213129526,,,Armenia,ARM
+Austria,AUT,0.827185182,,,Aruba,ABW
+Azerbaijan,AZE,0.8874910035,,,Australia,AUS
+Bahamas,BHM,0.3726854272,,,Austria,AUT
+Bahrain,BHR,0.4475984091,,,Azerbaijan,AZE
+Bangladesh,BGD,0.7293457734,,,Bahamas,BHM
+Barbados,BRB,0.8266868046,,,Bahrain,BHR
+Belarus,BLR,0.8034836919,,,Bangladesh,BGD
+Belgium,BEL,0.8324056797,,,Barbados,BRB
+Belize,BLZ,0.742861352,,,Belarus,BLR
+Benin,BEN,0.105761965,,,Belgium,BEL
+Bermuda,BMU,0.7643683718,,,Belize,BLZ
+Bhutan,BTN,0.9325977967,,,Benin,BEN
+Bolivia,BOL,0.6382968442,,,Bermuda,BMU
+Bosnia and Herzegovina,BIH,0.9675213169,,,Bhutan,BTN
+Botswana,BWA,0.7044340834,,,Bolivia,BOL
+Brazil,BRA,0.8457302564,,,Bosnia and Herzegovina,BIH
+Brunei,BRN,0.4657345142,,,Botswana,BWA
+Bulgaria,BGR,0.136717324,,,Brazil,BRA
+Burkina Faso,BFA,0.1409678319,,,British Virgin Islands,VGB
+Burma (Myanmar),MMR,0.5641569787,,,Brunei,BRN
+Burundi,BDI,0.9344543259,,,Bulgaria,BGR
+Cambodia,KHM,0.3558825527,,,Burkina Faso,BFA
+Cameroon,CMR,0.8403879483,,,Burma,MMR
+Canada,CAN,0.8649357188,,,Burundi,BDI
+Cape Verde,CAN,0.1985449153,,,Cabo Verde,CPV
+Central African Republic,CAF,0.725995452,,,Cambodia,KHM
+Chad,TCD,0.8802265754,,,Cameroon,CMR
+Chile,CHL,0.1804856232,,,Canada,CAN
+China,CHN,0.3465712639,,,Cayman Islands,CYM
+Colombia,COL,0.3583578658,,,Central African Republic,CAF
+Comoros,COM,0.0899887387,,,Chad,TCD
+Costa Rica,CRI,0.1756130944,,,Chile,CHL
+Croatia,HRV,0.3631518979,,,China,CHN
+Cuba,CUB,0.6653512414,,,Colombia,COL
+Cyprus,CYP,0.1040730034,,,Comoros,COM
+Czechia,CZE,0.4684366824,,,Congo,COD
+Democratic Republic of the Congo,CZE,0.5812749854,,,Congo,COG
+Denmark,DNK,0.4702779419,,,Cook Islands,COK
+Djibouti,DJI,0.2765399231,,,Costa Rica,CRI
+Dominica,DMA,0.175905485,,,Cote d'Ivoire,CIV
+Dominican Republic,DOM,0.676409146,,,Croatia,HRV
+Ecuador,ECU,0.0002832895577,,,Cuba,CUB
+Egypt,EGY,0.00536634875,,,Curacao,CUW
+El Salvador,SLV,0.7390198413,,,Cyprus,CYP
+Equatorial Guinea,GNQ,0.06694163648,,,Czech Republic,CZE
+Eritrea,ERI,0.7413921451,,,Denmark,DNK
+Estonia,EST,0.5929249998,,,Djibouti,DJI
+Ethiopia,ETH,0.7885268025,,,Dominica,DMA
+Fiji,FJI,0.1802026497,,,Dominican Republic,DOM
+Finland,FIN,0.08098411657,,,Ecuador,ECU
+France,FRA,0.629780636,,,Egypt,EGY
+Gabon,GAB,0.6487772056,,,El Salvador,SLV
+Gambia,GMB,0.4193115585,,,Equatorial Guinea,GNQ
+Georgia,GEO,0.6405697681,,,Eritrea,ERI
+Germany,DEU,0.03049488474,,,Estonia,EST
+Ghana,GHA,0.4455955032,,,Ethiopia,ETH
+Greece,GRC,0.8233073115,,,Falkland Islands (Islas Malvinas),FLK
+Grenada,GRD,0.2105191034,,,Faroe Islands,FRO
+Guatemala,GTM,0.2729845676,,,Fiji,FJI
+Guinea,GGY,0.6834266758,,,Finland,FIN
+Guinea-Bissau,GIN,0.3515013757,,,France,FRA
+Guyana,GUY,0.2384335382,,,French Polynesia,PYF
+Haiti,HTI,0.09707882135,,,Gabon,GAB
+Honduras,HND,0.5876895932,,,Gambia,GMB
+Hong Kong,HKG,0.4427188842,,,Georgia,GEO
+Hungary,HUN,0.8941407633,,,Germany,DEU
+Iceland,ISL,0.9032725396,,,Ghana,GHA
+India,IND,0.4701798111,,,Gibraltar,GIB
+Indonesia,IDN,0.001069567943,,,Greece,GRC
+Iran,IRN,0.8368312867,,,Greenland,GRL
+Iraq,IRQ,0.3592750073,,,Grenada,GRD
+Ireland,IRL,0.8685287513,,,Guam,GUM
+Israel,ISR,0.2421170517,,,Guatemala,GTM
+Italy,ITA,0.9436446971,,,Guernsey,GGY
+Ivory Coast,ITA,0.2698039596,,,Guinea-Bissau,GNB
+Jamaica,JAM,0.2351403521,,,Guinea,GIN
+Japan,JPN,0.8967913936,,,Guyana,GUY
+Jordan,JOR,0.4240524241,,,Haiti,HTI
+Kazakhstan,KAZ,0.5941774212,,,Honduras,HND
+Kenya,KEN,0.5066906409,,,Hong Kong,HKG
+Kiribati,KIR,0.1151163033,,,Hungary,HUN
+Kuwait,KWT,0.9406730481,,,Iceland,ISL
+Kyrgyzstan,KGZ,0.6066065242,,,India,IND
+Laos,LAO,0.972189334,,,Indonesia,IDN
+Latvia,LVA,0.03779951085,,,Iran,IRN
+Lebanon,LBN,0.5846951808,,,Iraq,IRQ
+Lesotho,LSO,0.5856947379,,,Ireland,IRL
+Liberia,LBR,0.4757667119,,,Isle of Man,IMN
+Libya,LBY,0.4109604378,,,Israel,ISR
+Liechtenstein,LIE,0.8128720826,,,Italy,ITA
+Lithuania,LTU,0.09249998091,,,Jamaica,JAM
+Luxembourg,LUX,0.1397634287,,,Japan,JPN
+Madagascar,MDG,0.807746722,,,Jersey,JEY
+Malawi,MWI,0.7430910834,,,Jordan,JOR
+Malaysia,MYS,0.8506179575,,,Kazakhstan,KAZ
+Maldives,MDV,0.4743643935,,,Kenya,KEN
+Mali,MLI,0.9903173537,,,Kiribati,KIR
+Malta,MLT,0.5268101075,,,Korea,PRK
+Mauritania,MRT,0.4770965309,,,Korea,KOR
+Mauritius,MUS,0.9519325611,,,Kosovo,KSV
+Mexico,MEX,0.6966466743,,,Kuwait,KWT
+Micronesia,FSM,0.8691926661,,,Kyrgyzstan,KGZ
+Moldova,MDA,0.8295925997,,,Laos,LAO
+Mongolia,MNG,0.8673618198,,,Latvia,LVA
+Montenegro,MNE,0.6688300894,,,Lebanon,LBN
+Montserrat,MNE,0.1515616119,,,Lesotho,LSO
+Morocco,MAR,0.5330341367,,,Liberia,LBR
+Mozambique,MOZ,0.5801830998,,,Libya,LBY
+Namibia,NAM,0.05304929287,,,Liechtenstein,LIE
+Nepal,NPL,0.02583096668,,,Lithuania,LTU
+Netherlands,NLD,0.3281522286,,,Luxembourg,LUX
+New Zealand,NZL,0.03982098466,,,Macau,MAC
+Nicaragua,NIC,0.3960804933,,,Macedonia,MKD
+Niger,NIC,0.7968645527,,,Madagascar,MDG
+Nigeria,NER,0.2445990028,,,Malawi,MWI
+North Korea,NIU,0.8323128405,,,Malaysia,MYS
+North Macedonia,NIU,0.3392068302,,,Maldives,MDV
+Norway,NOR,0.3862487698,,,Mali,MLI
+Oman,OMN,0.2429690207,,,Malta,MLT
+Pakistan,PAK,0.8549661309,,,Marshall Islands,MHL
+Palau,PLW,0.7676217182,,,Mauritania,MRT
+Palestine,PLW,0.1797562922,,,Mauritius,MUS
+Panama,PAN,0.8928934711,,,Mexico,MEX
+Papua New Guinea,PNG,0.1248440302,,,Micronesia,FSM
+Paraguay,PRY,0.6118869293,,,Moldova,MDA
+Peru,PER,0.6008161267,,,Monaco,MCO
+Philippines,PHL,0.858477893,,,Mongolia,MNG
+Poland,POL,0.1576330665,,,Montenegro,MNE
+Portugal,PRT,0.7177358707,,,Morocco,MAR
+Puerto Rico,PRI,0.8235950535,,,Mozambique,MOZ
+Qatar,QAT,0.4477055474,,,Namibia,NAM
+Republic of the Congo,QAT,0.8153608515,,,Nepal,NPL
+Romania,ROU,0.2014886957,,,Netherlands,NLD
+Russia,RUS,0.6418340439,,,New Caledonia,NCL
+Rwanda,RWA,0.2490305825,,,New Zealand,NZL
+Saint Lucia,LCA,0.5145961494,,,Nicaragua,NIC
+Saint Vincent and the Grenadines,VCT,0.4905728493,,,Nigeria,NGA
+Samoa,WSM,0.1433726491,,,Niger,NER
+Sao Tome and Principe,STP,0.9262363223,,,Niue,NIU
+Saudi Arabia,SAU,0.211177235,,,Northern Mariana Islands,MNP
+Senegal,SEN,0.8121186592,,,Norway,NOR
+Serbia,SRB,0.505333044,,,Oman,OMN
+Seychelles,SYC,0.571735577,,,Pakistan,PAK
+Sierra Leone,SLE,0.6331788026,,,Palau,PLW
+Singapore,SGP,0.2373270545,,,Panama,PAN
+Slovakia,SVK,0.9212251472,,,Papua New Guinea,PNG
+Slovenia,SVN,0.6288417196,,,Paraguay,PRY
+Solomon Islands,SLB,0.8207417388,,,Peru,PER
+Somalia,SOM,0.5152820492,,,Philippines,PHL
+South Africa,ZAF,0.398772378,,,Poland,POL
+South Korea,ZAF,0.2851404578,,,Portugal,PRT
+Spain,ESP,0.1495540408,,,Puerto Rico,PRI
+Sri Lanka,LKA,0.8371077298,,,Qatar,QAT
+Sudan,SDN,0.9260474904,,,Romania,ROU
+Suriname,SUR,0.4119443212,,,Russia,RUS
+Swaziland,SWZ,0.6641852976,,,Rwanda,RWA
+Sweden,SWE,0.3598462689,,,Saint Kitts and Nevis,KNA
+Switzerland,CHE,0.2935465554,,,Saint Lucia,LCA
+Syria,SYR,0.5789126525,,,Saint Martin,MAF
+Taiwan,TWN,0.7281411622,,,Saint Pierre and Miquelon,SPM
+Tajikistan,TJK,0.7891593388,,,Saint Vincent and the Grenadines,VCT
+Tanzania,TZA,0.6811182941,,,Samoa,WSM
+Thailand,THA,0.4082722601,,,San Marino,SMR
+Togo,TGO,0.7094183928,,,Sao Tome and Principe,STP
+Tonga,TON,0.5709325231,,,Saudi Arabia,SAU
+Trinidad and Tobago,TTO,0.9712050981,,,Senegal,SEN
+Tunisia,TUN,0.5496750906,,,Serbia,SRB
+Turkey,TUR,0.6635049422,,,Seychelles,SYC
+Turkmenistan,TKM,0.2740885954,,,Sierra Leone,SLE
+Tuvalu,TUV,0.6336411876,,,Singapore,SGP
+Uganda,UGA,0.8545806407,,,Sint Maarten,SXM
+Ukraine,UKR,0.7501837968,,,Slovakia,SVK
+United Arab Emirates,ARE,0.560392001,,,Slovenia,SVN
+United Kingdom,GBR,0.9422920724,,,Solomon Islands,SLB
+Uruguay,URY,0.9081528574,,,Somalia,SOM
+USA,URY,0.4261634044,,,South Africa,ZAF
+Uzbekistan,UZB,0.7317538152,,,South Sudan,SSD
+Vanuatu,VUT,0.2301090674,,,Spain,ESP
+Venezuela,VEN,0.9370124099,,,Sri Lanka,LKA
+Vietnam,VNM,0.2924710632,,,Sudan,SDN
+Yemen,YEM,0.2215225736,,,Suriname,SUR
+Zambia,ZMB,0.8667113581,,,Swaziland,SWZ
+Zimbabwe,ZWE,0.2527870939,,,Sweden,SWE
+Euro area,ETH,0.8437106592,,,Switzerland,CHE
+Faroe Islands,FRO,0.5534731821,,,Syria,SYR
+Gibraltar,GIB,0.6513970373,,,Taiwan,TWN
+Macao,LUX,0.8142544739,,,Tajikistan,TJK
+Monaco,MCO,0.2656991163,,,Tanzania,TZA
+New Caledonia,NCL,0.2306827013,,,Thailand,THA
+San Marino,SMR,0.3545241257,,,Timor-Leste,TLS
+Norfolk Island,NIU,0.1949725113,,,Togo,TGO
+Holy See (Vatican City),HTI,0.8586608488,,,Tonga,TON
+,,,,,Trinidad and Tobago,TTO
+,,,,,Tunisia,TUN
+,,,,,Turkey,TUR
+,,,,,Turkmenistan,TKM
+,,,,,Tuvalu,TUV
+,,,,,Uganda,UGA
+,,,,,Ukraine,UKR
+,,,,,United Arab Emirates,ARE
+,,,,,United Kingdom,GBR
+,,,,,United States,USA
+,,,,,Uruguay,URY
+,,,,,Uzbekistan,UZB
+,,,,,Vanuatu,VUT
+,,,,,Venezuela,VEN
+,,,,,Vietnam,VNM
+,,,,,Virgin Islands,VGB
+,,,,,West Bank,WBG
+,,,,,Yemen,YEM
+,,,,,Zambia,ZMB
+,,,,,Zimbabwe,ZWE
